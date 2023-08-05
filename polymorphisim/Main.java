@@ -1,0 +1,6 @@
+package polymorphisim;
+
+class Main {
+
+}
+
